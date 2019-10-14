@@ -9,9 +9,9 @@ tech_starbase_build_speed = {
 	is_rare = yes
 	
 	modifier = {
-		starbase_upgrade_time_mult = -0.75
-		starbase_building_build_time_mult = -0.75
-		starbase_module_build_time_mult = -0.75
+		starbase_upgrade_time_mult = -0.8
+		starbase_building_build_time_mult = -0.8
+		starbase_module_build_time_mult = -0.8
 	}
 	
 	weight_modifier = {
@@ -64,8 +64,8 @@ tech_military_build_speed = {
 	is_rare = yes
 	
 	modifier = {
-		starbase_shipyard_build_time_mult = -0.75
-		planet_army_build_time_mult = -0.75
+		starbase_shipyard_build_time_mult = -0.8
+		planet_army_build_time_mult = -0.8
 	}
 	
 	weight_modifier = {
@@ -100,9 +100,9 @@ tech_planet_build_speed = {
 	is_rare = yes
 	
 	modifier = {
-		building_time_mult = -0.75
-		planet_clear_blocker_time_mult = -0.75
-		terraform_speed_mult = 0.75
+		building_time_mult = -0.8
+		planet_clear_blocker_time_mult = -0.8
+		terraform_speed_mult = 0.8
 	}
 	
 	weight_modifier = {

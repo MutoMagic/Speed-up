@@ -1,5 +1,4 @@
 name="Speed up"
-path="mod/speedup"
 tags={
 	"Technologies"
 }
