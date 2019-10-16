@@ -1,0 +1,26 @@
+@ambitionDuration = 3600
+
+the_more_the_better = {
+	length = @ambitionDuration
+	is_ambition = yes
+	resources = {
+		category = edicts
+	}
+
+	modifier = {
+		starbase_shipyard_build_time_mult = -1.0
+		planet_colony_development_speed_mult = 2.0
+		terraform_speed_mult = 1.0
+	}
+	
+	potential = {
+		And = {
+			has_technology = tech_military_build_speed
+			has_technology = tech_planet_build_speed
+		}
+	}
+	
+	ai_weight = {
+		weight = 0
+	}
+}
