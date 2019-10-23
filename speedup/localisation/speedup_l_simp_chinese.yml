@@ -8,3 +8,7 @@
 
  edict_the_more_the_better:0 "多多益善"
  edict_the_more_the_better_desc:0 "我全都要！"
+ 
+ mod_shipsize_ion_cannon_build_speed_mult:0 "离子炮建造速度"
+ mod_shipsize_titan_build_speed_mult:0 "泰坦建造速度"
+ mod_shipsize_colossus_build_speed_mult:0 "巨像建造速度"

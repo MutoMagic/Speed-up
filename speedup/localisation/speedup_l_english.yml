@@ -8,3 +8,7 @@
 
  edict_the_more_the_better:0 "The more, the better"
  edict_the_more_the_better_desc:0 "I want all of them!"
+ 
+ mod_shipsize_ion_cannon_build_speed_mult:0 "ion_cannon build speed"
+ mod_shipsize_titan_build_speed_mult:0 "titan build speed"
+ mod_shipsize_colossus_build_speed_mult:0 "colossus build speed"
